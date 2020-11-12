@@ -1,0 +1,86 @@
+body
+{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: "Verdana";
+    color: grey;
+    .container
+{
+    background-color: rgba(255,255,255,0.5);
+}
+
+header
+{
+    font-size: 1.5em;
+    text-align:center;
+}
+
+nav
+{
+    border-radius:5px;
+    background-color: whitesmoke;
+    font-size:1.2em;
+}
+
+
+
+
+h1
+{
+color:red;
+font-family: Helvetica ,  sans-serif;
+word-spacing: 15px;
+line-height:1.5em;
+}
+
+h3
+{
+color:#292929;
+font-family: Arial, Helvetica, sans-serif;
+word-spacing: 13px;
+line-height:1.4em;
+}
+h2
+{
+color:black;
+font-family:	Helvetica;
+word-spacing: 11px;
+line-height:1.2em;
+}
+a
+{
+	text-decoration: none;
+	color:red;
+}
+
+.nem
+{
+	text-transform:capitalize;
+	color:#00004d;
+	text-align: center;
+}
+
+
+.nyomtato
+{
+	background-image:url("nyomtato.png");
+	 background-size: cover;
+    font-family: "Verdana";
+}
+
+.background
+{
+	font-size: 1.5em;
+    text-align:center;
+	background-color:white
+}
+
+li
+{
+	text-decoration: none;
+	color:red;
+}
+
+
